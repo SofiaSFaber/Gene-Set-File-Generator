@@ -1,4 +1,4 @@
-# Gene-Set-File-Generator
+# Geneset-File-Generator
 
 To help GWAS researchers, mainly for Geneset Analysis, this script generates a standard Geneset file based on the gene names.
 
